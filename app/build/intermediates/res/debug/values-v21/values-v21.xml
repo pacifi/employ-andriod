@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Pacifi-win/Downloads/EmpleadosSQL/app/src/main/res/values-v21/styles.xml -->
+    <eat-comment/>
+    <color name="WindowBackground">#FFFFFF</color>
+    <color name="accent">#FF80AB</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="primary">#F50057</color>
+    <color name="primary_dark">#C51162</color>
+    <color name="text_color">#333</color>
+    <style name="AppTheme" parent="android:Theme.Material.Light.DarkActionBar">
+        <item name="android:colorPrimaryDark">@color/primary_dark</item>
+        <item name="android:colorAccent">@color/accent</item>
+        <item name="android:colorPrimary">@color/primary</item>
+        <item name="android:textColor">@color/text_color</item>
+        <item name="android:windowBackground">@color/WindowBackground</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+        <item name="android:windowAllowReturnTransitionOverlap">true</item>
+        <item name="android:windowSharedElementEnterTransition">@android:transition/move</item>
+        <item name="android:windowSharedElementExitTransition">@android:transition/move</item>
+
+    </style>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Registro de Empleados v1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="employee_icon_alt">Employee Icon</string>
+    <string name="id">ID</string>
+    <string name="name">Nombre</string>
+    <string name="charge">Cargo</string>
+    <string name="department">Departamento</string>
+    <string name="email">E-mail</string>
+    <string name="phone">N. Telefon</string>
+    <!-- LABELS DETAIL VIEW -->
+    <string name="id_label">ID :</string>
+    <string name="name_label">Nombre :</string>
+    <string name="charge_label">Cargi :</string>
+    <string name="department_label">Departmento :</string>
+    <string name="phone_label">Telefono :</string>
+    <string name="email_label">E-mail :</string>
+    <string name="menu_new_employee">Agregar Empleado</string>
+    <string name="menu_settings">Configurar</string>
+    <string name="title_activity_employee_create">Agregar Empleado</string>
+    <!-- REMOVE EMPLOYEE -->
+    <string name="removed_successfully"> Removido</string>
+    <string name="remove_employee">Eliminar Empleado</string>
+    <string name="remove">Eliminar</string>
+    <string name="remove_confirm_message">quieres eliminar?</string>
+
+    <!-- ADD EMPLOYEE VIEW -->
+    <string name="add_employee">Agregar Empleado</string>
+    <string name="cancel">Cacelar</string>
+    <string name="added_employee">Agregar Empleado</string>
+    <string name="added_employee_msg">Se agrego correctamente.</string>
+    <string name="ok">OK</string>
+    
+    <string name="update_employee">Actualizar Empleado</string>
+    <string name="save">Guardar</string>
+    <string name="title_activity_employee_update">Actualizar Empleado</string>
+    <string name="update">Actualizar</string>
+    <string name="upated_successfully">Emplado actualizado.</string>
+    <string name="updated_fail">Fallo al actualizar.</string>
+
+</resources>
